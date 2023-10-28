@@ -4,7 +4,8 @@
   "description": "an opensource generic ttrpg system",
   "main": "index.md",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx @11ty/eleventy --input src --output dist --serve"
   },
   "repository": {
     "type": "git",

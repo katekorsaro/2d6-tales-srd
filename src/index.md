@@ -1,5 +1,6 @@
 ---
 rev: 2023.10.28
+layout: layouts/base.njk
 ---
 Revision: {{rev}}
 # Introduction

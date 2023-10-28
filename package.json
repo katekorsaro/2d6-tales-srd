@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://bitbucket.org/savvy-donkey-press/srd/issues"
   },
-  "homepage": "https://bitbucket.org/savvy-donkey-press/srd#readme"
+  "homepage": "https://bitbucket.org/savvy-donkey-press/srd#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
 }

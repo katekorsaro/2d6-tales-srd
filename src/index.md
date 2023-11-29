@@ -37,6 +37,15 @@ Revision: {{rev}}
 |4|Distrustful Skeptic|+2|-1|+1|
 |5|Daydreamer         |+1|-1|+2|
 |6|Overthinker        |+2|+1|-1|
+## Background
+|d6|Background|STR|DEX|CON|INT|WIL|PER|
+|-|-|---:|---:|---:|---:|---:|---:|
+|1|Former Military Officer|+2|+1|+2|+1|0|-1|
+|2|Private Detective|0|+2|+1|+2|+1|-1|
+|3|Journalist|-1|0|-1|+2|+2|+2|
+|4|Street Thug|+2|+2|+1|-1|0|-1|
+|5|University Professor|-1|0|-1|+2|+2|+2|
+|6|Stunt Performer|+1|+2|+2|0|-1|-1|
 # Rules of the Game
 ## Action Resolution
 ## Combat

@@ -1,16 +1,13 @@
 ---
-rev: 2021.11.29
+rev: 2024.01.08
 layout: layouts/base.njk
 ---
 Revision: {{rev}}
-# Introduction
-# Design Goals
-# Example of Play
-# Character Abilities
-## Primary Abilities
-## Secondary Abilities
+
 # Character Creation
+
 ## Age (Roll d6)
+
 |d6|Age|Range|STR|DEX|CON|INT|WIL|PER|
 |-|-|-|---:|---:|---:|---:|---:|---:|
 |1|Teenager|(13-19 years)|-1|-2|-2|-1|0|-1|
@@ -19,7 +16,9 @@ Revision: {{rev}}
 |4|Middle Aged|(40-49 years)|-1|-1|-1|-2|-2|-2|
 |5|Senior|(50-59 years)|-1|0|-1|-2|-2|-2|
 |6|Elderly|(60+ years)|0|0|-1|-2|-2|-1|
+
 ## Physical Trait (Roll d6)
+
 |d6|Trait|STR|DEX|CON|
 |-|-|---:|---:|---:|
 |1|Bulky Build|-2|-1|-2|
@@ -28,7 +27,9 @@ Revision: {{rev}}
 |4|Compact Stature|-1|-2|-1|
 |5|Muscular Frame|-2|0|-1|
 |6|Delicate Constitution|-1|-2|-1|
+
 ## Mental Traits (Roll d6)
+
 |d6|Trait|INT|WIL|PER|
 |-|-|---:|---:|---:|
 |1|Analytical Thinker |+2|+1|-1|
@@ -37,7 +38,9 @@ Revision: {{rev}}
 |4|Distrustful Skeptic|+2|-1|+1|
 |5|Daydreamer         |+1|-1|+2|
 |6|Overthinker        |+2|+1|-1|
+
 ## Background
+
 |d6|Background|STR|DEX|CON|INT|WIL|PER|
 |-|-|---:|---:|---:|---:|---:|---:|
 |1|Former Military Officer|+2|+1|+2|+1|0|-1|
@@ -46,6 +49,3 @@ Revision: {{rev}}
 |4|Street Thug|+2|+2|+1|-1|0|-1|
 |5|University Professor|-1|0|-1|+2|+2|+2|
 |6|Stunt Performer|+1|+2|+2|0|-1|-1|
-# Rules of the Game
-## Action Resolution
-## Combat

@@ -4,6 +4,44 @@ layout: layouts/base.njk
 ---
 Revision: {{rev}}
 
+# Character Abilities
+
+## Strength
+
+This attribute represents a character's physical power and ability to exert force. It often
+determines how much a character can carry, the damage they can inflict in physical combat, and their
+prowess in feats of raw physical strength.
+
+## Dexterity
+
+Dexterity measures a character's agility, reflexes, and balance. This attribute is crucial for tasks
+requiring fine motor skills, like lock picking, as well as in combat scenarios where quick movements
+are essential, such as dodging attacks.
+
+## Constitution
+
+This attribute represents a character's health, stamina, and overall physical resilience. A high
+constitution usually means more resistance, better endurance, and a greater ability to
+withstand physical hardship or illness.
+
+## Intellect
+
+This attribute gauges a character's reasoning, memory, and learning ability. It impacts skills
+related to knowledge, problem-solving, and often determines a character's ability to cast and resist
+certain spells.
+
+## Willpower
+
+Willpower is a measure of a character's mental fortitude, determination, and discipline. It plays a
+crucial role in resisting mental and magical influence, enduring psychological stress, and sometimes
+in the casting or resisting of certain types of spells or abilities.
+
+## Personality
+
+This attribute represents a character's charisma, charm, and ability to interact effectively with
+others. It often influences skills related to persuasion, deception, and leadership. In many games,
+personality affects how NPCs perceive and react to the character.
+
 # Character Creation
 
 ## Age (Roll d6)

@@ -21,8 +21,8 @@ are essential, such as dodging attacks.
 ## Constitution
 
 This attribute represents a character's health, stamina, and overall physical resilience. A high
-constitution usually means more resistance, better endurance, and a greater ability to
-withstand physical hardship or illness.
+constitution usually means more resistance, better endurance, and a greater ability to withstand
+physical hardship or illness.
 
 ## Intellect
 
